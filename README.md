@@ -12,11 +12,11 @@ Welcome to my special repository! I'm a passionate Data Scientist and Analyst wi
   💼 My multidisciplinary background has allowed me to work seamlessly across various facets of technology, enabling me to contribute to projects that require a holistic understanding of both technical and user-centric aspects.
 
  🚀 I thrive on tackling challenging problems and turning ideas into impactful solutions that make a difference. As a data analyst:
-   ***Problem Solving*** I enjoy diving into complex datasets, extracting meaningful insights, and solving intricate data puzzles that contribute to informed decision-making.
-   ***Data-Driven Decision-Making*** I am passionate about leveraging data to empower organizations in making strategic decisions, enhancing efficiency, and driving positive outcomes.
-   ***Visual Storytelling*** I excel in transforming raw data into compelling visualizations and reports that communicate insights effectively to both technical and non-technical stakeholders.
-   ***Process Optimization*** I actively seek opportunities to optimize data workflows, automate repetitive tasks, and streamline analytical processes for greater efficiency.
-   ***Impactful Reporting*** I believe in the power of clear and concise reporting, providing actionable insights that enable stakeholders to make informed decisions.
+   -***Problem Solving*** I enjoy diving into complex datasets, extracting meaningful insights, and solving intricate data puzzles that contribute to informed decision-making.
+  - ***Data-Driven Decision-Making*** I am passionate about leveraging data to empower organizations in making strategic decisions, enhancing efficiency, and driving positive outcomes.
+  - ***Visual Storytelling*** I excel in transforming raw data into compelling visualizations and reports that communicate insights effectively to both technical and non-technical stakeholders.
+  - ***Process Optimization*** I actively seek opportunities to optimize data workflows, automate repetitive tasks, and streamline analytical processes for greater efficiency.
+  - ***Impactful Reporting*** I believe in the power of clear and concise reporting, providing actionable insights that enable stakeholders to make informed decisions.
     
   📚 I'm committed to continuous learning and staying at the forefront of advancements in data science and machine learning. Currently, I'm delving into **Big Data Technologies** Acquiring skills in working with big data technologies such as Apache Spark to handle and analyze large-scale datasets efficiently.
   
