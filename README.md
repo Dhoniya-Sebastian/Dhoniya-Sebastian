@@ -9,6 +9,7 @@ Welcome to my special repository! I'm a passionate Data Scientist and Analyst wi
   - **Data Analysis:** My foundation in data analysis allows me to uncover meaningful insights from complex datasets. I've successfully applied statistical methods, developed data-driven strategies, and contributed to impactful business decisions.
   - **Full-Stack Development:** - Beginner in full-stack development, exploring front-end (HTML, CSS, JavaScript), back-end (Python, Node.js), integration (APIs, RESTful services), and building dynamic applications with frameworks like Flask and Express.js.
   - **UI/UX Design:** I have a keen eye for creating intuitive and visually appealing user interfaces. My UI/UX expertise extends from wireframing and prototyping to delivering user-centric designs that enhance the overall user experience. I believe in the power of design thinking to create products that resonate with users.
+  
   💼 My multidisciplinary background has allowed me to work seamlessly across various facets of technology, enabling me to contribute to projects that require a holistic understanding of both technical and user-centric aspects.
 
  🚀 I thrive on tackling challenging problems and turning ideas into impactful solutions that make a difference. As a data analyst:
