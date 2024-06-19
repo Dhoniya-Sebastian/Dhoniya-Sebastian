@@ -43,7 +43,7 @@ As a data analyst, I'm on an epic quest:
 ### Crayon Data - Data Engineering Intern (Aug 2023 - Oct 2023)
 - Led a data engineering initiative encompassing data generation, schema extraction, and transformation by harnessing XAMPP, Spark, resulting in streamlined management of diverse database schemas.
 
-### Prodigy Infotech - Data Science Intern (Dec 2023 - Present)
+### Prodigy Infotech - Data Science Intern (Dec 2023 - Jan 2024)
 
 Apart from work, I am also contributing to 
 
